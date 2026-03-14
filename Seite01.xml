@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main"> Der Sagenschatz des Frankenlandes</title>
+      <title type="sub">Die Sagen des Rhöngebirges und des Grabfeldes : Der fränkische Sagenschatz</title>
+      <title type="volume" n="1">Theil 1</title>
+      <respStmt>
+        <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+        <resp>
+          <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+          <ref target="https://www.bbaw.de"/>
+        </resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+    <extent>
+      <measure type="images"></measure>
+      <measure type="tokens"></measure>
+      <measure type="types"></measure>
+      <measure type="characters"></measure>
+    </extent>
+    <publicationStmt>
+      <publisher xml:id="DTACorpusPublisher">
+        <email>dta@bbaw.de</email>
+        <orgName role="project">Deutsches Textarchiv</orgName>
+        <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+        <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+        <address>
+          <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+          <country>Germany</country>
+        </address>
+      </publisher>
+      <pubPlace>Berlin</pubPlace>
+      <date type="publication">2026-03-14T10:37:40Z</date>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="MM"></bibl>
+      <biblFull>
+        <titleStmt>
+        <title level="m" type="main"> Der Sagenschatz des Frankenlandes</title>
+        <title level="m" type="sub">Die Sagen des Rhöngebirges und des Grabfeldes : Der fränkische Sagenschatz</title>
+        <title level="m" type="volume" n="1">Theil 1</title>
+          <editor>
+            <persName>
+              <surname>Bechstein</surname>
+              <forename>Ludwig</forename>
+            </persName>
+          </editor>
+        </titleStmt>
+        <editionStmt>
+          <edition n="1"/>
+        </editionStmt>
+        <publicationStmt>
+          <publisher/>
+            <pubPlace>Würzburg</pubPlace>
+          <date type="publication">1842</date>
+        </publicationStmt>
+      </biblFull>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <editorialDecl>
+      <p>
+          Bogensignaturen: keine Angabe;
+          Druckfehler: keine Angabe;
+          fremdsprachliches Material: keine Angabe;
+          Geminations-/Abkürzungsstriche: keine Angabe;
+          Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+          I/J in Fraktur: keine Angabe;
+          i/j in Fraktur: keine Angabe;
+          Kolumnentitel: keine Angabe;
+          Kustoden: keine Angabe;
+          langes s (ſ): keine Angabe;
+          Normalisierungen: keine Angabe;
+          rundes r (&amp;#xa75b;): keine Angabe;
+          Seitenumbrüche markiert: keine Angabe;
+          Silbentrennung: keine Angabe;
+          u/v bzw. U/V: keine Angabe;
+          Vokale mit übergest. e: keine Angabe;
+          Vollständigkeit: keine Angabe;
+          Zeichensetzung: keine Angabe;
+          Zeilenumbrüche markiert: keine Angabe;
+      </p>
+    </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+    <textClass>
+    </textClass>
+  </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <p>Hier kommt Ihr Text</p>
+ </body>
+ </text>
+</TEI>
